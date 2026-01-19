@@ -133,7 +133,7 @@ Pletenitaburemina
             <img src="glavna-slika.jpg" alt="Pleteni tabure bež">
             <h3>Pleteni Tabure - Model L</h3>
             <p>Ručni rad od pamučnog konca, punjenje visoke gustine.</p>
-            <div class="price">4.500 RSD</div>
+            <div class="price">7.000 RSD</div>
             <a href="https://wa.me/381641262704?text=Zdravo, interesuje me pleteni tabure" class="btn btn-wa">Poruči preko WhatsApp-a</a>
         </div>
 
