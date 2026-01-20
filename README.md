@@ -117,7 +117,10 @@
 <header>
     <h1>Pleteni tabure MINA</h1>
     <div class="subtitle">📍 Glogovac, Jagodina | 📞 064 126 2704</div>
-    <p>Unikatni ručni rad koji unosi toplinu u svaki kutak vašeg doma.</p>
+    <p>Zapratite nas na :
+        I N S T A G R A M U 
+        Pletenitabure_mina 
+        Unikatni ručni rad koji unosi toplinu u svaki kutak vašeg doma.</p>
 </header>
 
 <div class="container">
